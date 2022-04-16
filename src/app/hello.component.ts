@@ -3,9 +3,6 @@ import { Component, Input } from '@angular/core';
 @Component({
   selector: 'hello',
   template: `
-
- 
-
   <table >
   <tr>
     <th>Name</th>
